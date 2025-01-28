@@ -1,3 +1,8 @@
+# shortname:
+#- folder_name
+#- Long Name
+#- system
+#- publisher (if official)
 ---
 aethexpofficial:
 - aetherial_expanse
@@ -5367,3 +5372,16 @@ obscuritaeterna:
 - Obscuritas
 - Obscuritas Æterna
 - Obscuritas AEterna
+megatraveller:
+- MegaTraveller
+- MegaTraveller
+- Traveller
+pninancofficial:
+- Peninsula Ancestral
+- Península Ancestral by Guilherme Providello
+- Península Ancestral
+- publisher
+heh:
+- herois_e_hordas
+- Heróis & Hordas
+- Solo 10
