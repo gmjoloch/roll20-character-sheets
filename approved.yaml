@@ -1,3 +1,8 @@
+# shortname:
+#- folder_name
+#- Long Name
+#- system
+#- publisher (if official)
 ---
 aethexpofficial:
 - aetherial_expanse
@@ -43,6 +48,11 @@ basicfantasy:
 - Basic Fantasy RPG
 - Basic Fantasy RPG by Chris Gonnerman
 - Basic Fantasy Role-Playing Game
+- publisher
+blade68official:
+- Blades 68
+- Blades '68 by Evil Hat
+- Blades in the Dark
 - publisher
 bladesinthedarkadvancedofficial:
 - Blades in the Dark
@@ -5367,3 +5377,13 @@ obscuritaeterna:
 - Obscuritas
 - Obscuritas Æterna
 - Obscuritas AEterna
+megatraveller:
+- MegaTraveller
+- MegaTraveller
+- Traveller
+hexxn2eofficial:
+- HeXXen-1733-2E
+- HeXXen 1733 2nd Edition by Ulisses Spiele
+- HeXXen 1733
+- publisher
+
